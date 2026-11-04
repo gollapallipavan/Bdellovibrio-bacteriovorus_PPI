@@ -1,0 +1,26 @@
+node_id,organism,role,molecule_type,functional_category,function,degree,in_degree,out_degree,betweenness,eigenvector,community
+OmpA,S. Typhimurium,prey,protein,Structural_OMP,Outer-membrane protein A,11,9,2,0.1196,0.5511,1
+MurA,S. Typhimurium,prey,protein,Cell_wall,UDP-GlcNAc 1-carboxyvinyltransferase (peptidoglycan biosynthesis),5,3,2,0.0761,0.4133,3
+BcsA,S. Typhimurium,prey,protein,Biofilm,Cellulose synthase catalytic subunit,6,4,2,0.0453,0.2755,3
+DnaK,B. bacteriovorus,predator,protein,Chaperone,Hsp70 chaperone,8,4,4,0.0444,0.1608,2
+SipA,S. Typhimurium,prey,protein,Virulence,SPI-1 T3SS effector,6,4,2,0.0389,0.4478,5
+OmpC,S. Typhimurium,prey,protein,Structural_OMP,Outer-membrane porin C,7,6,1,0.0245,0.209,2
+AmpC,S. Typhimurium,prey,protein,AMR,Class C beta-lactamase,5,3,2,0.0226,0.1769,4
+Bd1972,B. bacteriovorus,predator,protein,Hydrolytic,Serine protease,6,1,5,0.0217,0.0804,2
+OapA,B. bacteriovorus,predator,protein,Recognition,Outer attack-phase/adhesion protein,4,1,3,0.0208,0.0,4
+PilB,B. bacteriovorus,predator,protein,Motility,Type IV pilus assembly ATPase,3,1,2,0.0154,0.0,1
+OmpF,S. Typhimurium,prey,protein,Structural_OMP,Outer-membrane porin F,5,4,1,0.0154,0.1125,4
+TetA,S. Typhimurium,prey,protein,AMR,Tetracycline efflux pump,4,2,2,0.0145,0.1447,4
+Bd3499,B. bacteriovorus,predator,protein,Hydrolytic,Serine protease,5,1,4,0.0118,0.0804,2
+Bd0934,B. bacteriovorus,predator,protein,Hydrolytic,Secreted nuclease,4,1,3,0.0072,0.0804,2
+Bd0109,B. bacteriovorus,predator,protein,Regulatory,Hit-locus protein (pilus control),3,1,2,0.0045,0.0,1
+Bd0108,B. bacteriovorus,predator,protein,Regulatory,Hit-locus protein (pilus control),3,1,2,0.0018,0.0,1
+SseB,S. Typhimurium,prey,protein,Virulence,SPI-2 T3SS translocon component,4,3,1,0.0009,0.2641,5
+Bd0537,B. bacteriovorus,predator,protein,Hydrolytic,Predicted lipase/esterase,1,0,1,0.0,0.0,1
+Bd2352,B. bacteriovorus,predator,protein,Hydrolytic,Glucosaminidase,2,0,2,0.0,0.0,3
+Bd3279,B. bacteriovorus,predator,protein,Hydrolytic,Peptidoglycan N-acetylglucosamine deacetylase,2,0,2,0.0,0.0,3
+Bd3507,B. bacteriovorus,predator,protein,Hydrolytic,Secreted nuclease,1,0,1,0.0,0.0,4
+FliF,B. bacteriovorus,predator,protein,Motility,Flagellar MS-ring protein,1,0,1,0.0,0.0,1
+FtsZ,B. bacteriovorus,predator,protein,Cell_division,Cell-division GTPase,2,1,1,0.0,0.0804,2
+VgrG,B. bacteriovorus,predator,protein,T6SS,T6SS spike/effector-delivery protein,3,0,3,0.0,0.0,5
+FimC,S. Typhimurium,prey,protein,Biofilm,Periplasmic fimbrial chaperone,3,2,1,0.0,0.1378,3

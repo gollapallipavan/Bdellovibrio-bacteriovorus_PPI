@@ -1,0 +1,53 @@
+source,target,edge_class,mechanism_reconstructed
+Bd0108,Bd0109,intra_predator,
+Bd0108,PilB,intra_predator,
+Bd0109,Bd0108,intra_predator,
+Bd0109,OapA,intra_predator,
+Bd0537,OmpA,cross_organism,Predicted (unverified mechanism)
+Bd0934,DnaK,intra_predator,
+Bd0934,OmpA,cross_organism,Predicted (unverified mechanism)
+Bd0934,OmpC,cross_organism,Predicted (unverified mechanism)
+Bd1972,DnaK,intra_predator,
+Bd1972,OmpA,cross_organism,Proteolytic degradation
+Bd1972,OmpC,cross_organism,Proteolytic degradation
+Bd1972,OmpF,cross_organism,Proteolytic degradation
+Bd1972,SipA,cross_organism,Proteolytic disruption
+Bd2352,BcsA,cross_organism,Predicted (unverified mechanism)
+Bd2352,MurA,cross_organism,Predicted (unverified mechanism)
+Bd3279,BcsA,cross_organism,Predicted (unverified mechanism)
+Bd3279,FimC,cross_organism,Predicted (unverified mechanism)
+Bd3499,DnaK,intra_predator,
+Bd3499,OmpA,cross_organism,Proteolytic degradation
+Bd3499,OmpC,cross_organism,Proteolytic degradation
+Bd3499,SseB,cross_organism,Proteolytic disruption
+Bd3507,OmpF,cross_organism,Predicted (unverified mechanism)
+DnaK,Bd0934,intra_predator,
+DnaK,Bd1972,intra_predator,
+DnaK,Bd3499,intra_predator,
+DnaK,FtsZ,intra_predator,
+FliF,OmpA,cross_organism,Motility mediated
+FtsZ,DnaK,intra_predator,
+OapA,OmpA,cross_organism,Physical binding
+OapA,OmpC,cross_organism,Physical binding
+OapA,OmpF,cross_organism,Physical binding
+PilB,OmpA,cross_organism,Mechanical contact
+PilB,OmpC,cross_organism,Mechanical contact
+VgrG,AmpC,cross_organism,T6SS effector delivery
+VgrG,SipA,cross_organism,T6SS effector delivery
+VgrG,SseB,cross_organism,T6SS effector delivery
+AmpC,OmpC,intra_prey,
+AmpC,TetA,intra_prey,
+BcsA,FimC,intra_prey,
+BcsA,MurA,intra_prey,
+FimC,BcsA,intra_prey,
+MurA,BcsA,intra_prey,
+MurA,OmpA,intra_prey,
+OmpA,MurA,intra_prey,
+OmpA,SipA,intra_prey,
+OmpC,AmpC,intra_prey,
+OmpF,TetA,intra_prey,
+SipA,OmpA,intra_prey,
+SipA,SseB,intra_prey,
+SseB,SipA,intra_prey,
+TetA,AmpC,intra_prey,
+TetA,OmpF,intra_prey,

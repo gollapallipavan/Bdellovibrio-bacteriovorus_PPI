@@ -1,0 +1,26 @@
+protein,organism,category,degree,in_degree,out_degree,betweenness,eigenvector,community
+OmpA,S. Typhimurium,Structural_OMP,11,9,2,0.1196,0.5511,1
+MurA,S. Typhimurium,Cell_wall,5,3,2,0.0761,0.4133,3
+BcsA,S. Typhimurium,Biofilm,6,4,2,0.0453,0.2755,3
+DnaK,B. bacteriovorus,Chaperone,8,4,4,0.0444,0.1608,2
+SipA,S. Typhimurium,Virulence,6,4,2,0.0389,0.4478,5
+OmpC,S. Typhimurium,Structural_OMP,7,6,1,0.0245,0.209,2
+AmpC,S. Typhimurium,AMR,5,3,2,0.0226,0.1769,4
+Bd1972,B. bacteriovorus,Hydrolytic,6,1,5,0.0217,0.0804,2
+OapA,B. bacteriovorus,Recognition,4,1,3,0.0208,0.0,4
+PilB,B. bacteriovorus,Motility,3,1,2,0.0154,0.0,1
+OmpF,S. Typhimurium,Structural_OMP,5,4,1,0.0154,0.1125,4
+TetA,S. Typhimurium,AMR,4,2,2,0.0145,0.1447,4
+Bd3499,B. bacteriovorus,Hydrolytic,5,1,4,0.0118,0.0804,2
+Bd0934,B. bacteriovorus,Hydrolytic,4,1,3,0.0072,0.0804,2
+Bd0109,B. bacteriovorus,Regulatory,3,1,2,0.0045,0.0,1
+Bd0108,B. bacteriovorus,Regulatory,3,1,2,0.0018,0.0,1
+SseB,S. Typhimurium,Virulence,4,3,1,0.0009,0.2641,5
+Bd0537,B. bacteriovorus,Hydrolytic,1,0,1,0.0,0.0,1
+Bd2352,B. bacteriovorus,Hydrolytic,2,0,2,0.0,0.0,3
+Bd3279,B. bacteriovorus,Hydrolytic,2,0,2,0.0,0.0,3
+Bd3507,B. bacteriovorus,Hydrolytic,1,0,1,0.0,0.0,4
+FliF,B. bacteriovorus,Motility,1,0,1,0.0,0.0,1
+FtsZ,B. bacteriovorus,Cell_division,2,1,1,0.0,0.0804,2
+VgrG,B. bacteriovorus,T6SS,3,0,3,0.0,0.0,5
+FimC,S. Typhimurium,Biofilm,3,2,1,0.0,0.1378,3

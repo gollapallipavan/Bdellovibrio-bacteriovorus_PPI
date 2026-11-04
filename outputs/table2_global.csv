@@ -1,0 +1,14 @@
+property,value
+Total nodes (proteins),25
+Total directed edges,52
+Cross-organism edges (Bb->St),24 (46.2%)
+Intra-predator edges,12 (23.1%)
+Intra-prey edges,16 (30.8%)
+Network density,0.087
+Average degree,4.16
+Degree SD,2.36
+Max degree (hub),11 (OmpA)
+Average clustering coefficient,0.192
+Average shortest path length,2.91
+Number of communities,5
+Modularity Q,0.424

@@ -1,0 +1,39 @@
+source,target,edge_class,mechanism,evidence_tier,citation
+Bd3279,MurA,cross,Deacetylation of prey peptidoglycan during predation,literature,Lambert et al. 2016 (Sci Rep 6:26010)
+Bd3459,MurA,cross,DD-carboxypeptidase remodelling of prey peptidoglycan,literature,Lerner et al. 2012 (PLoS Pathog 8:e1002524)
+Bd0867,OmpF,cross,Fimbrial/secretory attachment to prey porin recognition receptor,inference,Mun et al. 2022 (Microbiol Spectr 10:e03094-22)
+Bd1509,OmpF,cross,Pilus-mediated attachment to prey porin receptor,inference,Mun et al. 2022 (Microbiol Spectr 10:e03094-22)
+Bd0875,OmpA,cross,VWFA-domain adhesion to prey outer-membrane protein,inference,Rendulic et al. 2004 (Science 303:689)
+Bd0875,OmpF,cross,VWFA-domain adhesion to prey porin,inference,Mun et al. 2022 (Microbiol Spectr 10:e03094-22)
+Bd0867,OmpC,cross,Fimbrial recognition of prey porin,inference,Mun et al. 2022 (Microbiol Spectr 10:e03094-22)
+Bd1509,OmpA,cross,Pilus attachment to prey outer-membrane protein,inference,Rendulic et al. 2004 (Science 303:689)
+Bd3279,BcsA,cross,Polysaccharide deacetylase acting on prey exopolysaccharide/biofilm,inference,Lambert et al. 2016 (Sci Rep 6:26010)
+Bd0109,MurA,cross,WapA-like cell-wall-associated engagement of prey peptidoglycan,inference,Rendulic et al. 2004 (Science 303:689)
+Bd0875,RfaL,cross,Adhesion engaging prey O-antigen/LPS surface,inference,Rendulic et al. 2004 (Science 303:689)
+Bd0108,OmpF,cross,Hit-locus/pilus-linked recognition of prey porin,inference,"Capeness et al. 2013 (PLoS One 8:e79759); Mun et al. 2022"
+Bd0108,Bd0109,intra_predator,Hit-locus pair regulating type IVa pilus extrusion/retraction,literature,Capeness et al. 2013 (PLoS One 8:e79759)
+Bd1509,Bd0867,intra_predator,Pilus-assembly ATPase with fimbrial/secretory protein,inference,Capeness et al. 2013 (PLoS One 8:e79759)
+Bd0108,Bd1509,intra_predator,Hit-locus control of pilus extrusion/retraction,inference,Capeness et al. 2013 (PLoS One 8:e79759)
+Bd0109,Bd0867,intra_predator,Pilus-associated cell-wall protein with fimbrial protein,inference,Capeness et al. 2013 (PLoS One 8:e79759)
+Bd0934,Bd3507,intra_predator,Co-regulated sequentially released secreted nucleases,literature,Bukowska-Faniband et al. 2020 (J Bacteriol 202:e00150-20)
+Bd0537,FliF,intra_predator,Flagellin-synthesis regulator with flagellar M-ring,inference,Rendulic et al. 2004 (Science 303:689)
+FtsZ,Bd3459,intra_predator,Cell-division peptidoglycan remodelling,inference,Lerner et al. 2012 (PLoS Pathog 8:e1002524)
+DnaK,FtsZ,intra_predator,Chaperone assisting division-protein folding,inference,Rendulic et al. 2004 (Science 303:689)
+DnaK,FliF,intra_predator,Chaperone assisting flagellar-protein folding,inference,Rendulic et al. 2004 (Science 303:689)
+DnaK,Bd1509,intra_predator,Chaperone assisting pilus ATPase,inference,Rendulic et al. 2004 (Science 303:689)
+DnaK,Bd1972,intra_predator,Chaperone assisting ABC-transporter assembly,inference,Rendulic et al. 2004 (Science 303:689)
+Bd0875,Bd0867,intra_predator,VWFA adhesion protein with fimbrial assembly protein,inference,Rendulic et al. 2004 (Science 303:689)
+Bd2352,Bd0875,intra_predator,Surface lipoprotein with adhesion protein,inference,Rendulic et al. 2004 (Science 303:689)
+Bd1972,Bd3459,intra_predator,Peptide transport with peptidoglycan carboxypeptidase,inference,Rendulic et al. 2004 (Science 303:689)
+OmpA,OmpC,intra_prey,Outer-membrane porin family co-occurrence,inference,Mun et al. 2022 (Microbiol Spectr 10:e03094-22)
+OmpC,OmpF,intra_prey,EnvZ-OmpR co-regulated porins,literature,Mun et al. 2022 (Microbiol Spectr 10:e03094-22)
+OmpA,OmpF,intra_prey,Outer-membrane porin family co-occurrence,inference,Mun et al. 2022 (Microbiol Spectr 10:e03094-22)
+BcsA,FimC,intra_prey,Biofilm cellulose matrix with fimbrial chaperone,inference,UniProt functional annotation
+BcsA,YcfR,intra_prey,Cellulose biosynthesis with biofilm-associated OMP,inference,UniProt functional annotation
+FimC,YcfR,intra_prey,Fimbrial/biofilm module,inference,UniProt functional annotation
+RfaL,OmpA,intra_prey,O-antigen ligase with outer-membrane protein biogenesis,inference,UniProt functional annotation
+RfaL,OmpC,intra_prey,LPS/outer-membrane biogenesis,inference,UniProt functional annotation
+SipA,SseB,intra_prey,T3SS effector with translocon component,inference,UniProt functional annotation
+MurA,RfaL,intra_prey,Cell-envelope biosynthesis (peptidoglycan with LPS),inference,UniProt functional annotation
+FimC,OmpA,intra_prey,Fimbrial chaperone with outer-membrane protein,inference,UniProt functional annotation
+MurA,BcsA,intra_prey,Envelope polysaccharide synthesis (peptidoglycan with cellulose),inference,UniProt functional annotation

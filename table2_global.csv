@@ -1,0 +1,24 @@
+property,value
+N,25
+E,38
+density,0.127
+mean_deg,3.04
+sd_deg,1.67
+max_deg,6
+hub,"OmpA, OmpF"
+clustering,0.225
+avg_path,2.7
+Q,0.483
+ncomm,5
+components,3
+giant,21
+cross,12
+ipred,14
+iprey,12
+lit,5
+inf,33
+cross_pct,31.6
+ipred_pct,36.8
+iprey_pct,31.6
+lit_pct,13.2
+inf_pct,86.8

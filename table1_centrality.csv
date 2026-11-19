@@ -1,0 +1,26 @@
+protein,organism,degree,in_degree,out_degree,betweenness,eigenvector,community
+DnaK,B. bacteriovorus,4,0,4,0.193,0.092,2
+Bd1509,B. bacteriovorus,5,2,3,0.183,0.331,1
+MurA,S. Typhimurium,5,3,2,0.178,0.129,3
+OmpA,S. Typhimurium,6,4,2,0.140,0.403,1
+Bd3459,B. bacteriovorus,3,2,1,0.083,0.042,2
+Bd0875,B. bacteriovorus,5,1,4,0.077,0.341,1
+FliF,B. bacteriovorus,2,2,0,0.069,0.021,2
+FimC,S. Typhimurium,3,1,2,0.063,0.116,3
+RfaL,S. Typhimurium,4,2,2,0.063,0.266,1
+Bd0867,B. bacteriovorus,5,3,2,0.048,0.352,1
+BcsA,S. Typhimurium,4,2,2,0.047,0.074,3
+OmpF,S. Typhimurium,6,6,0,0.044,0.435,1
+Bd0109,B. bacteriovorus,3,1,2,0.041,0.153,1
+Bd1972,B. bacteriovorus,2,1,1,0.022,0.030,2
+FtsZ,B. bacteriovorus,2,1,1,0.022,0.030,2
+Bd0108,B. bacteriovorus,3,0,3,0.014,0.204,1
+OmpC,S. Typhimurium,4,3,1,0.009,0.324,1
+Bd0934,B. bacteriovorus,1,0,1,0.000,0.000,4
+Bd0537,B. bacteriovorus,1,0,1,0.000,0.005,2
+Bd2352,B. bacteriovorus,1,0,1,0.000,0.076,1
+Bd3279,B. bacteriovorus,2,0,2,0.000,0.045,3
+Bd3507,B. bacteriovorus,1,1,0,0.000,0.000,4
+SipA,S. Typhimurium,1,0,1,0.000,0.000,5
+YcfR,S. Typhimurium,2,2,0,0.000,0.042,3
+SseB,S. Typhimurium,1,1,0,0.000,0.000,5

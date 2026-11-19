@@ -1,0 +1,63 @@
+{
+ "xmin1": {
+  "xmin": 1,
+  "n": 25,
+  "alpha": 1.713,
+  "D": 0.253,
+  "cmp": {
+   "lognormal": [
+    -2.68,
+    0.0074
+   ],
+   "exponential": [
+    -4.16,
+    0.0
+   ],
+   "truncated_power_law": [
+    -4.16,
+    0.0
+   ],
+   "stretched_exponential": [
+    -2.83,
+    0.0046
+   ]
+  }
+ },
+ "xmin2": {
+  "xmin": 2,
+  "n": 19,
+  "alpha": 2.297,
+  "D": 0.206,
+  "cmp": {
+   "lognormal": [
+    -2.02,
+    0.0435
+   ],
+   "exponential": [
+    -3.45,
+    0.0006
+   ],
+   "truncated_power_law": [
+    -3.46,
+    0.0034
+   ],
+   "stretched_exponential": [
+    -2.13,
+    0.0329
+   ]
+  }
+ },
+ "ols": {
+  "slope": -0.463,
+  "r2": 0.678
+ },
+ "shortest_paths": {
+  "pairs": 150,
+  "reachable": 69,
+  "reach_pct": 46.0,
+  "within3": 51,
+  "within3_pct_reach": 73.9,
+  "mean_hops": 2.68,
+  "sd_hops": 1.16
+ }
+}

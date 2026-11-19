@@ -1,0 +1,16 @@
+fit_range,statistic,value
+full (xmin=1),n,25
+full (xmin=1),alpha,1.713
+full (xmin=1),KS_D,0.253
+full (xmin=1),LLR_vs_lognormal (R;p),-2.68; 0.0074
+full (xmin=1),LLR_vs_exponential (R;p),-4.16; 0.0
+full (xmin=1),LLR_vs_truncated_power_law (R;p),-4.16; 0.0
+full (xmin=1),LLR_vs_stretched_exponential (R;p),-2.83; 0.0046
+restricted (xmin=2),n,19
+restricted (xmin=2),alpha,2.297
+restricted (xmin=2),KS_D,0.206
+restricted (xmin=2),LLR_vs_lognormal (R;p),-2.02; 0.0435
+restricted (xmin=2),LLR_vs_exponential (R;p),-3.45; 0.0006
+restricted (xmin=2),LLR_vs_truncated_power_law (R;p),-3.46; 0.0034
+restricted (xmin=2),LLR_vs_stretched_exponential (R;p),-2.13; 0.0329
+full,OLS_slope; R2,-0.463; 0.678

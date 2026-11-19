@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+outputs/*.json
+outputs/*.csv
+outputs/*.jpg
+!outputs/.gitkeep
